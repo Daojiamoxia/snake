@@ -1,1 +1,37 @@
-
+<style type="text/css">
+	*{
+		margin: 0px;
+		padding: 0px;
+	}
+	body{
+		margin: 0px;
+		padding: 0px;
+		height: 100%;
+		width: 100%;
+	}
+	.windows{
+		margin-left: 26% ;
+		margin-top: 10%;
+		height: 500px;
+		width: 900px;
+		background-color: #feeeed;
+	}
+	.windows_both{
+		float: left;
+		height: 100%;
+		width: 200px;
+		background-color: #fff;
+	}
+	.windows_mid{
+		float: left;
+		width: 500px;
+		height: 100%;
+	}
+	#snake{
+		float: left;
+		width: 20px;
+		height: 20px;
+		margin-left: 0px;
+		background-color: red;
+	}
+</style>
